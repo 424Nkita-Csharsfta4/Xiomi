@@ -1,0 +1,40 @@
+/* No CSS *//*# sourceMappingURL=mobile.css.map */
+@media(max-width:1200px) and (min-height:1140px){
+  .header{
+      width: 80%;
+  }
+  .menu{
+      width: 90%;
+  }
+  .menu__list{
+      text-align: center;
+  }
+  .menu__item{
+      width: 15%;
+  }
+  .menu__item.l,.menu__item.b{
+      width: 11%;
+      padding-left: 0;
+  }
+  .menu__link.j{
+      padding-left: 0;
+  }
+  .cover-container{
+      padding-left: 5%;
+  }
+   .cover-h1{
+       font-size: 35px;
+   }
+   .btn-oversaiz{
+       width: 42%;
+       height: 10%;
+       font-size: 15px;
+   }
+   .slider{
+      padding-left: 0;
+      padding-right: 0;
+   }
+   .menu-foot-vel{
+       font-size: 20px;
+   }
+}
